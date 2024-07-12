@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.margin{
+
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+li,ul,h1{
+    display: inline;
+
+}
+ul{
+    margin-left: 50%;
+}
+li{
+    padding: 20px;
+}
+
+.box1,.box2,.box3 {
+    border: 2px solid red;
+    height: 300px;
+    width: 200px;
+    display:inline-block;
+    padding-left: 50px;
+    margin-left: 120px;
+}
